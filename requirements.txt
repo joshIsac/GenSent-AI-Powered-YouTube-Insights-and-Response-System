@@ -1,0 +1,9 @@
+Flask
+Jinja2 
+google-api-python-client
+pandas
+numpy
+google-auth
+google-auth-oauthlib
+python-dotenv
+requests
