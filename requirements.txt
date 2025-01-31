@@ -8,3 +8,8 @@ google-auth-oauthlib
 python-dotenv
 requests
 streamlit
+python-dotenv
+langdetect
+diskcache
+plotly
+geopandas
